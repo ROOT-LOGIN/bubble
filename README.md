@@ -2,6 +2,8 @@
 
 All simple ideas and thoughts go here!
 
+- dsoframer.zip: This is a copy of Micrsoft's dsoframer which implement activex control host.
+
 =====================================
 
 容纳所有简单的设想与实现。
